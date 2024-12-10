@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Ar Rafi Alam Chowdhury  
-A **Nuclear Engineer** transitioning into the world of **Data Science & Analytics**, combining my analytical rigor with a passion for problem-solving and data-driven decision-making. I aim to leverage my technical and research skills to tackle dynamic challenges in Big Data, Business Analytics, and Financial Analytics.
+A **Nuclear Engineer** transitioning into **Data Science & Analytics**, combining my analytical rigor with a passion for problem-solving and data-driven decision-making. I aim to leverage my technical and research skills to tackle dynamic challenges in the field of Data Science.
 
 ---
 
@@ -77,9 +77,3 @@ A **Nuclear Engineer** transitioning into the world of **Data Science & Analytic
 - 💼 [LinkedIn](https://www.linkedin.com/in/arrafialam/)  
 - 📧 [Email](arrafialam@gmail.com)  
 - 🌐 [Portfolio](https://arrafialam.github.io/)
-
----
-
-## ⭐️ **GitHub Stats**
-
-[![Rafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=arrafialam1)](https://github.com/anuraghazra/github-readme-stats)
