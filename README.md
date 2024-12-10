@@ -7,7 +7,7 @@ A **Nuclear Engineer** transitioning into **Data Science & Analytics**, combinin
 
 - 🎓 **Education**: B.Sc. in Nuclear Science & Engineering (Bangladesh University of Professionals)  
 - 🧠 **Key Skills**: Python (Pandas, NumPy), SQL, Power BI, PostgreSQL, MongoDB  
-- 🚀 **Aspiration**: Pursuing an MSc in Data Science & Analytics to deepen my expertise and make impactful contributions.  
+- 🚀 **Aspiration**: To be an industry leading Data Scientist.  
 - 🔎 **Research Interests**: Big Data Analytics, Business Analytics, and Financial Performance Analysis.  
 
 ---
