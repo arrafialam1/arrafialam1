@@ -76,4 +76,4 @@ A **Nuclear Engineer** transitioning into **Data Science & Analytics**, combinin
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/arrafialam/)  
 - 📧 [Email](arrafialam@gmail.com)  
-- 🌐 [Portfolio](https://arrafialam.github.io/)
+- 🌐 [Portfolio](https://arrafialam1.github.io/)
