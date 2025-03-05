@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Ar Rafi Alam Chowdhury  
-A **Nuclear Engineer** transitioning into **Data Science & Analytics**, combining my analytical rigor with a passion for problem-solving and data-driven decision-making. I aim to leverage my technical and research skills to tackle dynamic challenges in the field of Data Science.
+I’m an aspiring **Data Scientist** whose journey began with a degree in Nuclear Science & Engineering—a field that taught me to approach complex problems with precision and curiosity. Early on, I immersed myself in technical research, co-authoring papers on developing intelligent safety systems for nuclear facilities and analyzing reactor safety. These projects not only sharpened my analytical skills but also introduced me to the transformative power of data. Managing my family’s business further solidified my passion for data by exposing me to the impact of data-driven decisions on real-world outcomes. Through hands-on projects, I developed proficiency in Python, SQL, and Power BI, and discovered the immense potential of leveraging data to solve challenges. I’m excited to blend my technical expertise with my enthusiasm for innovation to contribute meaningful solutions in **AI and Data Science**.
 
 ---
 
@@ -8,7 +8,7 @@ A **Nuclear Engineer** transitioning into **Data Science & Analytics**, combinin
 - 🎓 **Education**: B.Sc. in Nuclear Science & Engineering (Bangladesh University of Professionals)  
 - 🧠 **Key Skills**: Python (Pandas, NumPy), SQL, Power BI, PostgreSQL, MongoDB  
 - 🚀 **Aspiration**: To be an industry leading Data Scientist.  
-- 🔎 **Research Interests**: Big Data Analytics, Business Analytics, and Financial Performance Analysis.  
+- 🔎 **Research Interests**: Big Data Technologies.  
 
 ---
 
@@ -67,7 +67,7 @@ A **Nuclear Engineer** transitioning into **Data Science & Analytics**, combinin
 
 ## 🏆 **What I'm Working On**
 - Gaining deeper expertise in Python, SQL, and Power BI.  
-- Preparing for an MSc in **Data Science & Analytics** to sharpen my technical capabilities.  
+- Preparing for an MSc in **AI & Data Science** to sharpen my technical capabilities.  
 - Enhancing my portfolio with projects that will help me achieve my academic and professional goals.  
 
 ---
