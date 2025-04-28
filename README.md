@@ -75,5 +75,5 @@ I’m an aspiring **Data Scientist** whose journey began with a degree in **Nucl
 ## 📫 **Connect With Me**
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/arrafialam/)  
-- 📧 [Email](arrafialam@gmail.com)  
+- 📧 Email: arrafialam@gmail.com  
 - 🌐 [Portfolio](https://arrafialam1.github.io/)
