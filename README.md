@@ -5,10 +5,10 @@ I’m an aspiring **Data Scientist** whose journey began with a degree in **Nucl
 
 ## 🌟 **About Me**
 
-- 🎓 **Education**: B.Sc. in Nuclear Science & Engineering (Bangladesh University of Professionals)  
+- 🎓 **Education**: B.Sc. in Nuclear Science & Engineering 
 - 🧠 **Key Skills**: Python (Pandas, NumPy), SQL, Power BI, PostgreSQL, MongoDB  
 - 🚀 **Aspiration**: To be an industry leading Data Scientist.  
-- 🔎 **Research Interests**: Big Data Technologies.  
+- 🔎 **Research Interests**: Artificial Intelligence, Machine and Deep Learning, Cloud Computing, Big Data Technologies.
 
 ---
 
