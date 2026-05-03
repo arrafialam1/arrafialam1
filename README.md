@@ -6,9 +6,9 @@ With a strong foundation in data modeling, ETL concepts, and both SQL and NoSQL 
 
 ## 🌟 **About Me**
 
-- 🎓 **Education**: B.Sc. in Nuclear Science & Engineering 
+- 🎓 **Education**: M.Sc. in Artificial Intelligence & Data Science, Keele University
 - 🧠 **Key Skills**: Python (Pandas, NumPy), SQL, Power BI, PostgreSQL, MongoDB  
-- 🚀 **Aspiration**: To be an industry leading Data Scientist.  
+- 🚀 **Aspiration**: To be an industry leading Data Engineer.  
 - 🔎 **Research Interests**: Artificial Intelligence, Machine and Deep Learning, Cloud Computing, Big Data Technologies.
 
 ---
