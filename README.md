@@ -1,5 +1,6 @@
 # Hi there! 👋 I'm Ar Rafi Alam Chowdhury  
-I’m an aspiring **Data Scientist** whose journey began with a degree in **Nuclear Science & Engineering**— a field that instilled in me the ability to approach complex problems with passion and diligence. During my bachelor’s studies, I engaged in technical research, co-authoring papers on developing intelligent safety systems for nuclear facilities and analysing reactor safety systems. These projects not only sharpened my analytical skills but also introduced me to the transformative power of data. Managing my family’s business further solidified my passion for data by exposing me to the impact of data-driven decisions on real-world outcomes. Through hands-on projects, I developed proficiency in Python, SQL, and Power BI, and discovered the immense potential of leveraging data to solve real-world challenges. I’m excited to blend my technical background with my passion for innovation to create meaningful solutions in **AI and Data Science**.
+I am a data-driven professional pursuing an MSc in Artificial Intelligence & Data Science, with hands-on experience in Python, SQL, Power BI, and database systems. I have built analytical pipelines, cleaned and transformed large datasets, and developed dashboards that translate complex data into actionable insights.
+With a strong foundation in data modeling, ETL concepts, and both SQL and NoSQL databases, I am focused on growing into data engineering roles involving scalable data systems, cloud technologies, and big data processing.
 
 ---
 
